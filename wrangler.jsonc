@@ -23,8 +23,8 @@
   },
   "vars": {
     "NUXT_PUBLIC_SLUG_DEFAULT_LENGTH": "6",
-    "NUXT_HOME_URL": "https://go.rohanodwyer.com",
-    "NUXT_DATASE": "sink"
+    "NUXT_HOME_URL": "https://example.com",
+    "NUXT_DATASET": "sink"
   },
   "ai": {
     "binding": "AI",
